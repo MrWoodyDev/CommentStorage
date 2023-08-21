@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentStorage.Api", "CommentStorage.Api\CommentStorage.Api.csproj", "{6808734E-A16F-4EBD-8008-FFF0D43B85D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentStorage.Console", "CommentStorage.Console\CommentStorage.Console.csproj", "{4381E941-DE41-4FB4-9C67-EA92339D5ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6808734E-A16F-4EBD-8008-FFF0D43B85D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6808734E-A16F-4EBD-8008-FFF0D43B85D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6808734E-A16F-4EBD-8008-FFF0D43B85D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6808734E-A16F-4EBD-8008-FFF0D43B85D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4381E941-DE41-4FB4-9C67-EA92339D5ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4381E941-DE41-4FB4-9C67-EA92339D5ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4381E941-DE41-4FB4-9C67-EA92339D5ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4381E941-DE41-4FB4-9C67-EA92339D5ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5465E7C-AA96-4D22-B1FD-CCCC162C7891}
+	EndGlobalSection
+EndGlobal
